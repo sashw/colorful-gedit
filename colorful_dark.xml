@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Name:       Colorful (dark)
+    Author:     Sascha Wagner
+    License:    GPLv3
+    URL:        https://github.com/sashw/colorful-gedit
+-->
+
+<style-scheme name="Colorful (dark)" id="colorful-dark" version="1.0">
+
+  <!-- Meta -->
+  <author>Sascha Wagner</author>
+  <description>Dark colorful scheme</description>
+
+  <!-- Styles -->
+  <style name="text"	foreground="#cccccc" background="#202020" />
+  <style name="cursor"	background="#aaaaaa" />
+  <style name="search-match"	foreground="#800000" background="#ffae00" />
+  <style name="current-line"	background="#181818" />
+  <style name="line-numbers"	foreground="#aaaaaa" background="#222222" />
+  <style name="bracket-match"	foreground="#242320" background="#faf8f0" bold="true" />
+  <style name="selection"	foreground="#b8e8e2" background="#5c787a" />
+  <style name="selection-unfocused"	foreground="#96b3b5" background="#4b6263" />
+  <style name="def:specials"	foreground="#fd8900" />
+  <style name="def:string"	foreground="#73d216" />
+  <style name="def:constant"	foreground="#0086d2" />
+  <style name="def:note"    foreground="#0076f2" background="#FFD710" bold="true" italic="false" />  <!-- //TODO -->
+  <style name="def:number"	foreground="#fcaf3e" />
+  <style name="def:statement"	foreground="#67d000" bold="true" />
+  <style name="def:function"	foreground="#4e9a06" bold="true" />
+  <style name="def:preprocessor"	foreground="#e34d20" bold="true" />
+  <style name="def:comment"	foreground="#00d2ff" background="#202020" italic="true" />
+  <style name="def:type"	foreground="#dcb36a" bold="true" />
+  <style name="def:error"	foreground="#ffffff" background="#ab0000" />
+  <style name="def:identifier"	foreground="#fca525" bold="true" />
+  <style name="def:shebang"	foreground="#0c98b3" bold="true" />
+
+</style-scheme>
